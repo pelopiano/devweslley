@@ -9,11 +9,7 @@ Desenvolvedor Front-end + uma pitada de amor por Python. Curioso por natureza.
 
 ### Projeto
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devweslley&repo=calculadora&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devweslley&repo=website-vbot-v1.0&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devweslley&repo=tiktok-clone&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Linguagens utilizadas
 
