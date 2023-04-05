@@ -1,20 +1,25 @@
-### Olá pessoal 👋
+<h1 align="center">Hi, I'm Weslley!</h1>
 
-###### Sobre o Weslley
-Desenvolvedor Front-end + uma pitada de amor por Python. Curioso por natureza.
+<div align="center">
+  
+<div align="center">
+<h3>─── ❖ ── Wow! Look at those stats! ── ❖ ───</h3>
+<br>
 
-### Detalhes
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,figma,firebase,git,github,vscode&perline=14)](https://github.com/alinesete)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devweslley&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+  
+<h3>─── ❖ ── My faves ── ❖ ───</h3>
+<br>
 
-### Projeto
+<a href="https://github.com/devweslley/tiktok-clone">
+  <img align="center" src="https://raw.githubusercontent.com/Alinesete/Alinesete/main/repos/tiktok-clone.svg" />
+</a>
+<br>
+<br>
+<br>
+<h3> Thank you for reading! </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devweslley&repo=tiktok-clone&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devweslley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contatos
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/devweslley/)
+<a href="https://github.com/devweslley"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
+</div>
