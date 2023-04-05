@@ -12,5 +12,4 @@
   
 <h3> Thank you for reading! </h3>
 
-<a href="https://github.com/devweslley"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
 </div>
