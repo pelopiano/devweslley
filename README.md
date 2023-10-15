@@ -6,7 +6,7 @@
 <h3>─── ❖ ── Wow! Look at those stats! ── ❖ ───</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,figma,firebase,git,github,vscode&perline=14)](https://github.com/alinesete)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,git,github,vscode&perline=14)](https://github.com/alinesete)
 
 <br>
   
